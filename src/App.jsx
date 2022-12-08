@@ -9,7 +9,7 @@ function App() {
         lastName={"Fuenzalida"}
         age={30}
         doSomething={function () {
-          console.log("Hello am here!")
+          console.log("Hello am here!");
         }}
       >
         <img src="https://picsum.photos/200/300" alt="picsum" />
